@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;	
+	list-style: none;
+	text-decoration: none;
+	text-indent: 3%;
+}
+.h1{
+background-color: #93d5e2;
+	color: black;	
+	text-align: left;
+	text-decoration-color: 
+
+}
+.d1{
+	display: inline;
+}
+.h1 a{
+	color:black;
+}
+.navigation-vertical{
+	list-style-type: none;
+	display: block;
+	width: 30%;
+	background-color: blue;
+	border-right: 30%;
+	border-color: black;
+}
+
+.bar1, .bar2, .bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: #333;
+  margin: 6px 0;
+  transition: 0.4s;
+}
